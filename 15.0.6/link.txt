@@ -1,1 +1,1 @@
-https://github.com/noobbeast/dexter-clang/releases/download/DexterNoob-Clang-15.0.6-20221122-release/DexterNoob-Clang-15.0.6-20221122.tar.gz
+https://github.com/noobbeast/dexter-clang/releases/download/DexterNoob-Clang-15.0.6-20221123-release/DexterNoob-Clang-15.0.6-20221123.tar.gz
